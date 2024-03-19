@@ -1,0 +1,77 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.container{
+    height: 1000px;
+    width: 1000px;
+    margin: auto; 
+    
+}
+
+#quadrato{
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 1070px;
+    height: 900px;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+
+
+.logo{
+    width: 300px;
+    padding-top: 7%;
+    padding-left: 35%;  
+}
+#titolo{
+    color: #00ff00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    padding-left: 30%;
+}
+.primariga{
+    background: #00ff00;
+    width: 900px;
+    height: 40px;
+    margin: auto;
+    border-radius: 5px;
+}
+.opzioni{
+    padding-left: 33%;
+    padding-top: 1%;
+}
+.monopattino{
+    width: 900px;
+    margin: auto;
+    padding-top: 25px;
+    
+}
+.check,.testo{
+    display: inline-block;
+    color: white;
+
+}
+.text{
+    color: white;
+}
+.carica{
+    background-color: orange;
+    height: 40px;
+    width: 400px;
+    border-radius: 3px;
+}
+.carica2{
+    background-color: green;
+    height: 40px;
+    width: 700px;
+    border-radius: 3px;
+    
+}  
+.carica3{
+    background-color: red;
+    height: 40px;
+    width: 200px;
+    border-radius: 3px;
+}
+    
